@@ -1,6 +1,6 @@
-# Hi there, I'm KDImam 👋
+# Hi there, I'm Ƙasim Dalhat Imam (aka KDImam)👋
 
-Welcome to my GitHub profile! I'm a versatile tech professional with expertise spanning software installation, digital marketing, graphic design, computer tutoring, and cybersecurity. Passionate about building secure solutions, creating compelling digital experiences, and empowering others through technology education.
+Welcome to my GitHub profile! I'm a versatile tech professional with expertise spanning software installation, digital marketing, graphic design, computer tutoring, AI operation and cybersecurity. Passionate about building secure solutions, creating compelling digital experiences, and empowering others through technology education.
 
 ## 🚀 About Me
 
